@@ -20,7 +20,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 5. Open in browser:
    http://localhost:3000
 
- 6.Live Demo
+  6.Live Demo
 👉 https://krishnaksmurali555-del.github.io/finance_dashboard/ 
 
 ## Available Scripts
