@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository:
    git clone https://github.com/krishnaksmurali555-del/finance_dashboard
