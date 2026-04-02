@@ -2,6 +2,24 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## 🚀 How to Run the Project
+
+1. Clone the repository:
+   git clone https://github.com/krishnaksmurali555-del/finance_dashboard
+
+2. Navigate to the project:
+   cd finance_dashboard
+
+3. Install dependencies:
+   npm install
+
+4. Start the app:
+   npm start
+
+5. Open in browser:
+   http://localhost:3000
+
 ## Available Scripts
 
 In the project directory, you can run:
